@@ -1,0 +1,6 @@
+ package com.practice.quiz_service.feign;
+
+ @
+public interface QiozInterface {
+
+}
